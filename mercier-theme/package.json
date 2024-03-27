@@ -17,5 +17,14 @@
         "path": "./themes/Mercier Dark-color-theme.json"
       }
     ]
+  },
+  "icon": "icons/nanowise-vsc-icon.png",
+  "author": {
+      "name": "Alex Mercier",
+      "email": "alex.m.mercier@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/alexmercier5/vsc_theme.git",
+    "type": "git"
   }
 }
