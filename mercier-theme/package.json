@@ -1,0 +1,21 @@
+{
+  "name": "mercier-theme",
+  "displayName": "mercier_theme",
+  "description": "Custom theme with a dark basis and green/bright text.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mercier Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mercier Dark-color-theme.json"
+      }
+    ]
+  }
+}
